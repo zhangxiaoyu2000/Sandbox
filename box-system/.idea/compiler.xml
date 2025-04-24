@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="recommen-module" />
+      </profile>
+      <profile name="Annotation profile for box-system" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="false">
+          <entry name="F:/repository/org/projectlombok/lombok/unknown/lombok-unknown.jar" />
+        </processorPath>
+        <module name="pay-module" />
+        <module name="read-module" />
+        <module name="common" />
+        <module name="verification-module" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="box-system" options="-parameters" />
+      <module name="common" options="-parameters" />
+      <module name="pay-module" options="-parameters" />
+      <module name="read-module" options="-parameters" />
+      <module name="recommen-module" options="-parameters" />
+      <module name="verification-module" options="-parameters" />
+    </option>
+  </component>
+</project>
