@@ -5,7 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b2f4105b-01dd-46ab-9219-1dd969cc7b0f" name="更改" comment="">
-      <change beforePath="$PROJECT_DIR$/authentication-module/.gitignore" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/src/test/java/MybatisPlusSampleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system-api/src/test/java/AutoCodeGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/common/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/java/org/readcom/mapper/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/src/test/java/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recommen-module/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/recommen-module/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/system-api/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/system-api/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/system-api/src/main/java/com/sandbox/sys/SystemApiApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/system-api/src/main/java/com/sandbox/sys/SystemApiApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/system-api/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/system-api/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/system-api/src/test/java/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/verification-module/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/verification-module/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +85,8 @@
     "run.code.analysis.last.selected.profile": "pProject Default",
     "run.configurations.included.in.services": "true",
     "settings.editor.selected.configurable": "MavenSettings",
-    "vue.rearranger.settings.migration": "true"
+    "vue.rearranger.settings.migration": "true",
+    "应用程序.AutoCodeGenerator.executor": "Run"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -93,7 +107,14 @@
       </set>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Spring Boot.SystemApiApplication">
+    <configuration name="AutoCodeGenerator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AutoCodeGenerator" />
+      <module name="system-api" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SystemApiApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <module name="system-api" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.sandbox.sys.SystemApiApplication" />
@@ -101,6 +122,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="应用程序.AutoCodeGenerator" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -115,6 +141,7 @@
       <workItem from="1745221981326" duration="15404000" />
       <workItem from="1745303848923" duration="1581000" />
       <workItem from="1745556041963" duration="10524000" />
+      <workItem from="1745576210101" duration="7112000" />
     </task>
     <servers />
   </component>
