@@ -21,15 +21,31 @@
         <module>recommen-module</module>
         <module>verification-module</module>
         <module>pay-module</module>
+        <module>authentication-module</module>
+        <module>system-api</module>       <!--项目启动模块-->
     </modules>
 
     <properties>
         <java.version>17</java.version>
+        <security.version>3.4.2</security.version>
     </properties>
+    <dependencyManagement>
+        <dependencies>
+            <dependency>
+                <groupId>org.springframework.boot</groupId>
+                <artifactId>spring-boot-starter-security</artifactId>
+                <version>${security.version}</version>
+            </dependency>
+        </dependencies>
+    </dependencyManagement>
     <dependencies>
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-security</artifactId>
         </dependency>
 
         <dependency>

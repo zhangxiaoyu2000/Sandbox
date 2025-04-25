@@ -1,13 +1,13 @@
-package org.example.recommenmodule;
+package com.sandbox.sys;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class RecommenModuleApplication {
+public class SystemApiApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(RecommenModuleApplication.class, args);
+        SpringApplication.run(SystemApiApplication.class, args);
     }
 
 }

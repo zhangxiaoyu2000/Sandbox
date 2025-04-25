@@ -4,7 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b2f4105b-01dd-46ab-9219-1dd969cc7b0f" name="更改" comment="" />
+    <list default="true" id="b2f4105b-01dd-46ab-9219-1dd969cc7b0f" name="更改" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/authentication-module/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/authentication-module/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/src/test/java/org/example/common/CommonApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pay-module/src/test/java/org/example/paymodule/PayModuleApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/read-module/src/test/java/org/example/readmodule/ReadModuleApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recommen-module/src/main/java/org/example/recommenmodule/RecommenModuleApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recommen-module/src/test/java/org/example/recommenmodule/RecommenModuleApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/system-api/src/main/java/com/sandbox/sys/SystemApiApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/system-api/src/main/java/com/sandbox/sys/SystemApiApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/verification-module/src/main/java/com/verification/config/SecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/verification-module/src/main/java/com/verification/config/SecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/verification-module/src/main/java/com/verification/service/MyUserDetailsService.java" beforeDir="false" afterPath="$PROJECT_DIR$/verification-module/src/main/java/com/verification/service/MyUserDetailsService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/verification-module/src/test/java/org/example/verificationsystem/VerificationSystemApplicationTests.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,6 +34,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="KubernetesApiProvider">{
   &quot;isMigrated&quot;: true
@@ -44,28 +63,34 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;17&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;模块&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
-    &quot;run.configurations.included.in.services&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;MavenSettings&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "jdk.selected.JAVA_MODULE": "17",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/张小鱼/Desktop/Sandbox/box-system/authentication-module",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "模块",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "run.configurations.included.in.services": "true",
+    "settings.editor.selected.configurable": "MavenSettings",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\张小鱼\Desktop\Sandbox\box-system\authentication-module" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\张小鱼\Desktop\Reader\ReadModule" />
       <recent name="C:\Users\张小鱼\Desktop\Reader" />
@@ -80,24 +105,10 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.ReadModuleApplication">
-    <configuration name="PayModuleApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
-      <module name="pay-module" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="org.example.paymodule.PayModuleApplication" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ReadModuleApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
-      <module name="read-module" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ReaderSys.ReadModuleApplication" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RecommenModuleApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
-      <module name="recommen-module" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="org.example.recommenmodule.RecommenModuleApplication" />
+  <component name="RunManager">
+    <configuration name="SystemApiApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="system-api" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.sandbox.sys.SystemApiApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -115,6 +126,7 @@
       <workItem from="1745209407417" duration="10441000" />
       <workItem from="1745221981326" duration="15404000" />
       <workItem from="1745303848923" duration="1581000" />
+      <workItem from="1745556041963" duration="10029000" />
     </task>
     <servers />
   </component>

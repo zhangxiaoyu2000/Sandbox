@@ -17,18 +17,22 @@
         </processorPath>
         <module name="pay-module" />
         <module name="read-module" />
+        <module name="system-api" />
         <module name="common" />
+        <module name="authentication-module" />
         <module name="verification-module" />
       </profile>
     </annotationProcessing>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="authentication-module" options="-parameters" />
       <module name="box-system" options="-parameters" />
       <module name="common" options="-parameters" />
       <module name="pay-module" options="-parameters" />
       <module name="read-module" options="-parameters" />
       <module name="recommen-module" options="-parameters" />
+      <module name="system-api" options="-parameters" />
       <module name="verification-module" options="-parameters" />
     </option>
   </component>

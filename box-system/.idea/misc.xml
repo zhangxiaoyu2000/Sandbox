@@ -11,6 +11,8 @@
         <option value="$PROJECT_DIR$/verification-system/pom.xml" />
         <option value="$PROJECT_DIR$/pay-module/pom.xml" />
         <option value="$PROJECT_DIR$/recommen-module/pom.xml" />
+        <option value="$PROJECT_DIR$/authentication-module/pom.xml" />
+        <option value="$PROJECT_DIR$/system-api/pom.xml" />
       </list>
     </option>
   </component>
