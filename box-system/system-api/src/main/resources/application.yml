@@ -1,3 +1,16 @@
 spring:
   application:
     name: systemApi
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    username: root
+    password: 123456
+    url: jdbc:mysql://localhost:3306/sandbox?useUnicode=true&characterEncoding=UTF-8&serverTimezone=Asia/Shanghai
+mybatis-plus:
+  configuration:
+    log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
+  global-config:
+    db-config:
+      id-type: auto
+      logic-delete-value: 1
+      logic-not-delete-value: 0
